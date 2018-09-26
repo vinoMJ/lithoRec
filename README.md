@@ -1,2 +1,2 @@
 # lithoRec
-SEM image segmentation and lithology classification
+SEM image segmentation and lithology classification (Unfinished)
